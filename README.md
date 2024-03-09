@@ -16,8 +16,6 @@ In essence, this script defines a schema for a salon management system database,
 
 ## Advanced Bash Scripting: 
 
-#### Summary of the .sh file
-
 ** This script .sh is a quotation reserve system for a beauty salon. **
 
 ** Functions: **
