@@ -18,22 +18,22 @@ In essence, this script defines a schema for a salon management system database,
 
 ## Advanced Bash Scripting: 
 
-** This script .sh is a quotation reserve system for a beauty salon. **
+**This script .sh is a quotation reserve system for a beauty salon.**
 
-** Functions: **
+**Functions:**
 
-*** Show a list of services available. **
-*** Allow the user to choose a service for id. **
-*** Request the customer phone number. **
-**Verify if the customer exists in the database. **
-*** If the client is new: **
-     *** Request the customer name. **
-     *** Add customer information to the database. **
-*** Request the desired time for the appointment. **
-*** Add the appointment to the database. **
-*** Confirm the customer appointment. **
+ Show a list of services available. 
+ Allow the user to choose a service for id. 
+ Request the customer phone number. 
+ Verify if the customer exists in the database. 
+ If the client is new: 
+     * Request the customer name. 
+     * Add customer information to the database. 
+ Request the desired time for the appointment. 
+ Add the appointment to the database. 
+ Confirm the customer appointment. 
 
-** Workflow: **
+**Workflow:**
 
 1. A menu is shown with the list of services available.
 2. The user chooses a service for ID.
@@ -44,7 +44,7 @@ In essence, this script defines a schema for a salon management system database,
 7. The appointment is added to the database.
 8. The meeting of the client is confirmed.
 
-** Variables: **
+**Variables:**
 
 * `PSQL`: Command to connect to the database.
 * `Services`: List of services available.
