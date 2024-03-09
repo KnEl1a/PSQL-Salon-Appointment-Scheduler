@@ -1,6 +1,8 @@
 Learned in https://www.freecodecamp.org/
 ## Postgres SQL
 
+[![pexels-delbeautybox-853427-1.jpg](https://i.postimg.cc/Qdd4QQMq/pexels-delbeautybox-853427-1.jpg)](https://postimg.cc/JGS5mBZy)
+
 The script creates a database named `salon` :
  It then defines three tables:
     * `appointments`: stores information about appointments, including customer ID, service ID, and time (as a string).
