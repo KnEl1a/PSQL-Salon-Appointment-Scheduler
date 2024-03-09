@@ -53,7 +53,3 @@ In essence, this script defines a schema for a salon management system database,
 * `Service_Time`: Desired time for the appointment.
 * `Customer_id`: Customer ID in the database.
 * `Appaint_inclusion`: Result of the insertion of the appointment in the database.
-
-**Note:**
-
-* This script uses the `PSQL` variable to connect to the database. Be sure to replace it with the information of your own database.
